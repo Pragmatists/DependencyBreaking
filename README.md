@@ -3,8 +3,8 @@ DependencyBreaking
 
 1. `AuthenticationService` -> Parametrize Constructor
 2. `CartController` -> Adapt Parameter
-3. `CustomerService` -> Introduce Static Setter
-4. `CustomerController` -> Encapsulate Global References
+3. `CustomerController` -> Introduce Static Setter
+4. `CustomerService` -> Encapsulate Global References
 5. `LoanCalculator` -> Extract and Override Call
 6. `OrderContoller` -> Break Out Object Method
 7. `PriceList` -> Primitivize Parameter
