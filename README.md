@@ -9,5 +9,5 @@ DependencyBreaking
 6. `OrderContoller` -> Break Out Object Method
 7. `PriceList` -> Primitivize Parameter
 8. `TestRunner` -> Extract Interface
-9. `User` -> Introduce Static Delegator
-10. `Account` -> Parametrize Method
+9. `User` -> Introduce Instance Delegator
+10. `Account` ->` Parametrize Method
